@@ -23,7 +23,7 @@ export default function Header() {
             <div className="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-lg">G</span>
             </div>
-            <span className="text-xl font-bold text-brown-900">GroceryGo</span>
+            <span className="text-xl font-bold text-brown-900">Snap'em</span>
           </Link>
 
           {/* Search Bar */}
