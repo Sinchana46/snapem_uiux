@@ -6,16 +6,16 @@ This project was developed using **React**, **TypeScript**, **Vite**, and **Tail
 
 # Project Features
 
-- Browse grocery products through a clean and responsive interface.
-- View featured grocery items on the homepage.
-- Search products quickly.
-- Add products to the shopping cart.
-- Manage shopping cart items.
-- User authentication interface (Sign In & Sign Up).
-- User profile page.
-- Payment workflow interface.
-- Order confirmation pages.
-- Responsive design across multiple devices.
+- Modern onboarding experience with Splash Screen.
+- User authentication through Sign Up and Sign In pages.
+- Browse grocery products from the home page.
+- Search products efficiently.
+- View product details and add items to the shopping cart.
+- Manage shopping cart before checkout.
+- Simulate multiple payment methods.
+- View order confirmation after successful checkout.
+- Access and manage user profile.
+- Responsive interface built using reusable React components.
 
 # Technologies Used
 
@@ -140,55 +140,77 @@ The application will be available at the local address displayed in the terminal
 
 # Screenshots
 
-## Home Page
+The following screenshots illustrate the complete user journey through the Snap'em Grocery Delivery application.
 
-![Home](screenshots/21_Home_Page-1.jpeg)
+---
 
-## Product Listing
+### User Authentication
 
-![Products](screenshots/24_Cart_Features.jpeg)
+| Splash Screen | Sign Up |
+|---------------|---------|
+| <img src="screenshots/7_Splash_Screen.jpeg" width="450"> | <img src="screenshots/8_SIgn_up.jpeg" width="450"> |
 
-## Shopping Cart
+| Sign In | Home |
+|----------|------|
+| <img src="screenshots/20_Sign_In.jpeg" width="450"> | <img src="screenshots/21_Home_Page-1.jpeg" width="450"> |
 
-![Cart](screenshots/25_Cart_Page.jpeg)
+---
 
-## Search
+### Product Discovery
 
-![Search](screenshots/30_Search_Feature.jpeg)
+| Search | Product Listing |
+|--------|-----------------|
+| <img src="screenshots/30_Search_Feature.jpeg" width="450"> | <img src="screenshots/24_Cart_Features.jpeg" width="450"> |
 
-## User Profile
+---
 
-![Profile](screenshots/31_User_Profile.jpeg)
+### Shopping Experience
 
-## Sign In
+| Shopping Cart | Payment |
+|---------------|---------|
+| <img src="screenshots/25_Cart_Page.jpeg" width="450"> | <img src="screenshots/26_Payment_Feature.jpeg" width="450"> |
 
-![Sign In](screenshots/20_Sign_In.jpeg)
+| Order Confirmation | User Profile |
+|-------------------|--------------|
+| <img src="screenshots/29_UPI_Confirmation.jpeg" width="450"> | <img src="screenshots/31_User_Profile.jpeg" width="450"> |
 
-## Sign Up
+---
 
-![Sign Up](screenshots/8_SIgn_up.jpeg)
+<details>
 
-## Payment
+<summary><strong>View Additional Screens</strong></summary>
 
-![Payment](screenshots/13_UPI_Payment.jpeg)
+<br>
 
-## Order Confirmation
+### Additional Home Screens
 
-![Confirmation](screenshots/29_UPI_Confirmation.jpeg)
+| Home Screen 2 | Home Screen 3 |
+|---------------|---------------|
+| <img src="screenshots/22_Home_Page-2.jpeg" width="450"> | <img src="screenshots/23_Home_Page-3.jpeg" width="450"> |
 
-## Additional Screens
+### Additional Shopping Screens
 
-| Splash Screen | Home Screen |
-|---------------|-------------|
-| ![](screenshots/7_Splash_Screen.jpeg) | ![](screenshots/10_Homescreen.jpeg) |
+| Home Screen | Cart |
+|-------------|------|
+| <img src="screenshots/10_Homescreen.jpeg" width="450"> | <img src="screenshots/11_Cart.jpeg" width="450"> |
 
-| Cart | Search |
-|------|--------|
-| ![](screenshots/11_Cart.jpeg) | ![](screenshots/18_Search_2.jpeg) |
+| Sign In | Payment Features |
+|----------------|------------------|
+| <img src="screenshots/9_Sign_In.jpeg" width="450"> | <img src="screenshots/13_UPI_Payment.jpeg" width="450"> |
+
+| UPI Payment | Sign Up |
+|-------------|---------|
+| <img src="screenshots/27_UPI_Feature.jpeg" width="450"> | <img src="screenshots/19_Sign_Up.jpeg" width="450"> | 
 
 | UPI Confirmation | COD Confirmation |
 |------------------|------------------|
-| ![](screenshots/15_UPI_Confirmation.jpeg) | ![](screenshots/28_COD_Confirmation.jpeg) |
+| <img src="screenshots/15_UPI_Confirmation.jpeg" width="450"> | <img src="screenshots/14_COD_Payment.jpeg" width="450"> |
+
+| User Profile | Cart Page |
+|--------------|-----------|
+| <img src="screenshots/16_User_profile.jpeg" width="450"> | <img src="screenshots/12_Cart_Page.jpeg" width="450"> |
+
+</details>
 
 # Project Highlights
 
